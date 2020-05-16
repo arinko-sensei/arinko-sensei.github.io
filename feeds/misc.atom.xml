@@ -49,7 +49,7 @@ h3.ptitle { font-size:150%; font-weight:bold;}
 Netscape Navigator 3.0 以上 または Internet Explorer 4.0 以上でご覧下さい。&lt;br&gt;
 WEB問題作成ツール http://www.fureai.or.jp/~irie/webquiz/ &lt;br&gt;
 &lt;/noscript&gt;&lt;/p&gt;
-&lt;script type="text/javascript" src="/home/chamon/py363/pelican/arinko-sensei/content/2020JS/anaume.js"&gt;&lt;/Script&gt;
+&lt;script type="text/javascript" src="anaume.js"&gt;&lt;/Script&gt;
 
 &lt;!--
   document.write(str_body); 
